@@ -1,0 +1,8 @@
+#include <stdio.h>
+#include<conio.h>
+void main()
+{
+string priya; 
+int roll no;
+printf("enter the stream")
+}
