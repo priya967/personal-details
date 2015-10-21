@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+string name;
+int roll no;
+variable mca;
+{
+printf("enter the name")
+printf("ente the roll no")
+printf("enter the stream);
+}
+}
